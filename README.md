@@ -1,10 +1,9 @@
 ## Bem-vindo(a) ao meu perfil 😁
-## Programando o futuro
 
  <div>
    <a href="https://github.com/JhonataLim">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataLim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLim&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonataLim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataLim&layout=compact&langs_count=6&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -15,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Gostou do meu perfil? Me siga nas redes abaixo!
  
 <div> 
 
